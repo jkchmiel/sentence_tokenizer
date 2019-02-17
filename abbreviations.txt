@@ -1,0 +1,20 @@
+# prefixes
+No
+Dr
+Mr
+Msc
+St
+Mrs
+Ms
+
+# suffixes
+Inc
+Ltd
+Jr
+Sr
+Co
+
+# complex
+Ph.D.
+P.R.
+
