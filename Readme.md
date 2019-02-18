@@ -4,7 +4,7 @@
 
 * put example/s into example.txt file
 
-* run:
+* run below, results will be in output.txt:
 ```bash
 python main.py
 ```
